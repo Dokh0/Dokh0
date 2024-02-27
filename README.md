@@ -1,7 +1,8 @@
 ## Hey 👋, I'm Julio Moreno!
 <a href='https://www.linkedin.com/in/juliomoren0/'><img align='left' alt="linkedin" src="./img/icons8-linkedin-96.png" height='32px'/></a>
 <a href='https://drive.google.com/file/d/1hm-7il5zPCx9suybldwJRLtwozrw4y3F/view?usp=drive_link'><img align='left' alt="cv" src="./img/icons8-cv-64.png" height='32px'/></a>
-
+<br/>
+<br/>
 
 I'm a versatile professional who has seamlessly transitioned from the structured world of law to the dynamic realm of technology. Over the years, I've garnered a rich tapestry of experience that spans across different industries, reflecting my ability to adapt and excel in diverse environments.
 
