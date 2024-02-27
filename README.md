@@ -1,10 +1,15 @@
 ## Hey 👋, I'm Julio Moreno!
-<a href='https://www.linkedin.com/in/juliomoren0/'><img align='left' alt="linkedin" src="./img/icons8-linkedin-96.png" height='24px'/></a>
-<a href='https://drive.google.com/file/d/1hm-7il5zPCx9suybldwJRLtwozrw4y3F/view?usp=drive_link'><img align='left' alt="cv" src="./img/icons8-cv-64.png" height='24px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/juliomoren0/'><img align='left' alt="linkedin" src="./img/icons8-linkedin-96.png" height='32px'/></a>
+<a href='https://drive.google.com/file/d/1hm-7il5zPCx9suybldwJRLtwozrw4y3F/view?usp=drive_link'><img align='left' alt="cv" src="./img/icons8-cv-64.png" height='32px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I'm a versatile professional who has seamlessly transitioned from the structured world of law to the dynamic realm of technology. Over the years, I've garnered a rich tapestry of experience that spans across different industries, reflecting my ability to adapt and excel in diverse environments.
+
+My journey began in the legal field, where I honed my analytical skills and meticulous attention to detail. However, my passion for innovation led me to pivot towards technology, where I've embraced the challenge of staying at the forefront of an ever-evolving landscape.
+
+As you can see, I am a continual learner who thrives on enhancing platforms and services. I believe in advancing not only the tech products I work with but also the teams I work alongside.
+
+Let's build something remarkable together. 🛠️. 
 <br/>
 <br/>
 
