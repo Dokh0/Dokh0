@@ -18,9 +18,9 @@ Let's build something remarkable together. 🛠️.
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on a **ai-educational-proyect**.
+- 🔭 &nbsp; I’m currently working on an **AI-educational-project**.
 - 🤝 &nbsp; I’m looking to collaborate on [blockchain.]
-- 🌱 &nbsp; I’m currently learning Vue and Python.
+- 🌱 &nbsp; I’m currently learning **Vue** and **Python**.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github.](https://github.com/Dokh0?tab=repositories)
 - 💬 &nbsp; Ask me for collaboration with anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn.](https://www.linkedin.com/in/juliomoren0/)
