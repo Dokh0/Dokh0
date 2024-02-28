@@ -48,7 +48,7 @@ Let's build something remarkable together. 🛠️.
 
 ### 📊 Github Stats
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=Dokh0&show_icons=true&theme=nightowl&hide_rank=true)     
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=Dokh0&show_icons=true&theme=nightowl&hide_rank=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokh0&layout=compact&theme=nightowl)
 
 <br>
