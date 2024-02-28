@@ -14,10 +14,10 @@ Let's build something remarkable together. 🛠️.
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" style="margin:20px"/>
+<img align="right" alt="GIF" style="margin: 20px;" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
-
+<div style="margin: 20px;">
 - 🔭 &nbsp; I’m currently working on an **AI-educational-project**.
 - 🤝 &nbsp; I’m looking to collaborate on **Blockchain** technology, especially in development and applications.
 - 🌱 &nbsp; I’m currently learning **Vue** and **Python**.
@@ -26,7 +26,7 @@ Let's build something remarkable together. 🛠️.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/juliomoren0/).
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1hm-7il5zPCx9suybldwJRLtwozrw4y3F/view?usp=drive_link).
 - 📚 &nbsp; When I am free, I read manga, fantasy and fiction novels; go to the gym and listen to music. Checkout my [Spotify](https://open.spotify.com/user/11128023431?si=2ee2e893ad794724).
-
+</div>
 <br>
 
 <!-- ### 🔨 Languages and Tools:
