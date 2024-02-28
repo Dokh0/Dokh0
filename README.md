@@ -48,8 +48,8 @@ Let's build something remarkable together. 🛠️.
 
 ### 📊 Github Stats
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=Dokh0&show_icons=true&theme=radical&hide_rank=true) 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokh0&layout=compact&theme=radical)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=Dokh0&show_icons=true&theme=tokyonight&hide_rank=true) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokh0&layout=compact&theme=tokyonight)
 
 <br>
 
