@@ -25,7 +25,7 @@ Let's build something remarkable together. 🛠️.
 - 💬 &nbsp; Ask me for collaboration with anything tech related, <br> I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/juliomoren0/).
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1hm-7il5zPCx9suybldwJRLtwozrw4y3F/view?usp=drive_link).
-- 📚 &nbsp; When I am free, I read manga, fantasy and fiction novels; <br>engaging and listening to music. Checkout my [Spotify](https://open.spotify.com/user/11128023431?si=2ee2e893ad794724).
+- 📚 &nbsp; When I am free, I read manga, fantasy and fiction novels; <br>engaging in sports and listening to music. Checkout my [Spotify](https://open.spotify.com/user/11128023431?si=2ee2e893ad794724).
 
 <br>
 
