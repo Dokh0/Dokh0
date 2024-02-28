@@ -1,4 +1,5 @@
 ## Hey 👋, I'm Julio Moreno!
+
 <a href='https://www.linkedin.com/in/juliomoren0/' target="_blank"><img align='left' alt="linkedin" src="./img/icons8-linkedin-96.png" height='32px'/></a>
 <a href='https://drive.google.com/file/d/1hm-7il5zPCx9suybldwJRLtwozrw4y3F/view?usp=drive_link' target="_blank"><img align='left' alt="cv" src="./img/icons8-cv-64.png" height='32px'/></a>
 <br/>
@@ -10,7 +11,7 @@ My journey began in the legal field, where I honed my analytical skills and meti
 
 As you can see, I am a continual learner who thrives on enhancing platforms and services. I believe in advancing not only the tech products I work with but also the teams I work alongside.
 
-Let's build something remarkable together. 🛠️. 
+Let's build something remarkable together. 🛠️.
 <br/>
 <br/>
 
@@ -30,26 +31,26 @@ Let's build something remarkable together. 🛠️.
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://vuejs.org/" target="_blank"> <img align="left" src="./img/vue.png" alt="vue" height="42px"/> </a> 
-<a href="https://react.dev/" target="_blank"> <img align="left" src="./img/react.png" alt="react" height="42px"/> </a> 
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="javascript" height ="42px" src="./img/javascript.png"> </a>
-<a href="hhttps://html.spec.whatwg.org/" target="_blank"><img align="left" alt="html" height ="42px" src="./img/html.png"></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="css" height ="42px" src="./img/css.png"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="./img/firebase.png" alt="firebase" height ="42px"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongodb" height ="42px"  src="./img/mongodb.png"> </a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="mysql" height ="42px" src="./img/mysql.png"></a>
-<a href="https://www.php.net/" target="_blank"> <img align="left" alt="php" height ="42px" src="./img/php.png"></a>
-<a href="https://nodejs.org/" target="_blank"><img align="left" alt="nodejs" height ="42px" src="./img/nodejs.png"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="./img/git.png" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="./img/figma.png" alt="figma" height='42px'/> </a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="./img/python.png"></a>
+
+<a href="https://vuejs.org/" target="_blank"> <img align="left" src="./img/vue.png" alt="vue" height="42px" style="margin: 10px;"/> </a>
+<a href="https://react.dev/" target="_blank"> <img align="left" src="./img/react.png" alt="react" height="42px" style="margin: 10px;"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="javascript" height ="42px" src="./img/javascript.png" style="margin: 10px;"> </a>
+<a href="hhttps://html.spec.whatwg.org/" target="_blank"><img align="left" alt="html" height ="42px" src="./img/html.png" style="margin: 10px;"></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="css" height ="42px" src="./img/css.png" style="margin: 10px;"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="./img/firebase.png" alt="firebase" height ="42px" style="margin: 10px;"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongodb" height ="42px"  src="./img/mongodbleaf.svg" style="margin: 10px;"> </a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="mysql" height ="42px" src="./img/mysql.png" style="margin: 10px;"></a>
+<a href="https://www.php.net/" target="_blank"> <img align="left" alt="php" height ="42px" src="./img/php.png" style="margin: 10px;"></a>
+<a href="https://nodejs.org/" target="_blank"><img align="left" alt="nodejs" height ="42px" src="./img/nodejs.png" style="margin: 10px;"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="./img/git.png" align="left" alt="git" height='42px' style="margin: 10px;"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="./img/figma.png" alt="figma" height='42px' style="margin: 10px;"/> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" style="margin: 10px;" height ="42px" src="./img/python.png"></a>
 
 <br>
 
-
 <!-- ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
+
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
