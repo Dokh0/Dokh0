@@ -32,19 +32,19 @@ Let's build something remarkable together. 🛠️.
 
 ### 🔨 Languages and Tools:
 
-<a href="https://vuejs.org/" target="_blank"> <img align="left" src="./img/vue.png" alt="vue" height="42px" style="margin: 10px;"/> </a>
-<a href="https://react.dev/" target="_blank"> <img align="left" src="./img/react.png" alt="react" height="42px" style="margin: 10px;"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="javascript" height ="42px" src="./img/javascript.png" style="margin: 10px;"> </a>
-<a href="hhttps://html.spec.whatwg.org/" target="_blank"><img align="left" alt="html" height ="42px" src="./img/html.png" style="margin: 10px;"></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="css" height ="42px" src="./img/css.png" style="margin: 10px;"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="./img/firebase.png" alt="firebase" height ="42px" style="margin: 10px;"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongodb" height ="42px"  src="./img/mongodbleaf.svg" style="margin: 10px;"> </a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="mysql" height ="42px" src="./img/mysql.png" style="margin: 10px;"></a>
-<a href="https://www.php.net/" target="_blank"> <img align="left" alt="php" height ="42px" src="./img/php.png" style="margin: 10px;"></a>
-<a href="https://nodejs.org/" target="_blank"><img align="left" alt="nodejs" height ="42px" src="./img/nodejs.png" style="margin: 10px;"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="./img/git.png" align="left" alt="git" height='42px' style="margin: 10px;"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="./img/figma.png" alt="figma" height='42px' style="margin: 10px;"/> </a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" style="margin: 10px;" height ="42px" src="./img/python.png"></a>
+<a href="https://vuejs.org/" target="_blank"> <img align="left" src="./img/vue.png" alt="vue" height="36px" style="margin: 10px;"/> </a>
+<a href="https://react.dev/" target="_blank"> <img align="left" src="./img/react.png" alt="react" height="36px" style="margin: 10px;"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="javascript" height ="36px" src="./img/javascript.png" style="margin: 10px;"> </a>
+<a href="hhttps://html.spec.whatwg.org/" target="_blank"><img align="left" alt="html" height ="36px" src="./img/html.png" style="margin: 10px;"></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="css" height ="36px" src="./img/css.png" style="margin: 10px;"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="./img/firebase.png" alt="firebase" height ="36px" style="margin: 10px;"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongodb" height ="36px"  src="./img/mongodbleaf.svg" style="margin: 10px;"> </a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="mysql" height ="36px" src="./img/mysql.png" style="margin: 10px;"></a>
+<a href="https://www.php.net/" target="_blank"> <img align="left" alt="php" height ="36px" src="./img/php.png" style="margin: 10px;"></a>
+<a href="https://nodejs.org/" target="_blank"><img align="left" alt="nodejs" height ="36px" src="./img/nodejs.png" style="margin: 10px;"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="./img/git.png" align="left" alt="git" height='36px' style="margin: 10px;"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="./img/figma.png" alt="figma" height='36px' style="margin: 10px;"/> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" style="margin: 10px;" height ="36px" src="./img/python.png"></a>
 
 <br>
 
