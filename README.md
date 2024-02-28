@@ -14,8 +14,6 @@ As you can see, I am a continual learner who thrives on enhancing platforms and 
 Let's build something remarkable together. 🛠️.
 <br/>
 <br/>
-
-<img align="right" alt="GIF" src="./img/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
