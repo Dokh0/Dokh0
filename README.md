@@ -31,18 +31,18 @@ Let's build something remarkable together. 🛠️.
 
 ### 🔨 Languages and Tools:
 <a href="https://vuejs.org/" target="_blank"> <img align="left" src="./img/vue.png" alt="vue" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://react.dev/" target="_blank"> <img align="left" src="./img/react.png" alt="react" height="42px"/> </a> 
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="javascript" height ="42px" src="./img/javascript.png"> </a>
+<a href="hhttps://html.spec.whatwg.org/" target="_blank"><img align="left" alt="html" height ="42px" src="./img/html.png"></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="css" height ="42px" src="./img/css.png"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="./img/firebase.png" alt="firebase" height ="42px"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongodb" height ="42px"  src="./img/mongodb.png"> </a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="mysql" height ="42px" src="./img/mysql.png"></a>
+<a href="https://www.php.net/" target="_blank"> <img align="left" alt="php" height ="42px" src="./img/php.png"></a>
+<a href="https://nodejs.org/" target="_blank"><img align="left" alt="nodejs" height ="42px" src="./img/nodejs.png"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="./img/git.png" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="./img/figma.png" alt="figma" height='42px'/> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="./img/python.png"></a>
 
 <br>
 
