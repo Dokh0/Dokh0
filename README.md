@@ -14,7 +14,7 @@ Let's build something remarkable together. 🛠️.
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" style="margin:20px"/>
   
 ### 🧐 More About Me:
 
