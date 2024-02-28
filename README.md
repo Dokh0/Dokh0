@@ -48,6 +48,11 @@ Let's build something remarkable together. 🛠️.
 
 <br>
 
+### 📊 Github Stats
+
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=Dokh0&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokh0&layout=compact&theme=radical)
+
 <!-- ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
 
@@ -58,7 +63,7 @@ Let's build something remarkable together. 🛠️.
 
 <br>
 
-### 🛠️ My Projects
+<!-- ### 🛠️ My Projects
 <a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
