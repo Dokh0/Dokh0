@@ -11,6 +11,7 @@ My journey began in the legal field, where I honed my analytical skills and meti
 As you can see, I am a continual learner who thrives on enhancing platforms and services. I believe in advancing not only the tech products I work with but also the teams I work alongside.
 
 Let's build something remarkable together. 🛠️.
+
 <br/>
   
 ### 🧐 More About Me:
