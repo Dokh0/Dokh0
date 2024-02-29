@@ -3,7 +3,6 @@
 <a href='https://www.linkedin.com/in/juliomoren0/' target="_blank"><img align='left' alt="linkedin" src="./img/icons8-linkedin-96.png" height='32px'/></a>
 <a href='https://drive.google.com/file/d/1hm-7il5zPCx9suybldwJRLtwozrw4y3F/view?usp=drive_link' target="_blank"><img align='left' alt="cv" src="./img/icons8-cv-64.png" height='32px'/></a>
 <br/>
-<br/>
 
 I'm a versatile professional who has seamlessly transitioned from the structured world of law to the dynamic realm of technology. Over the years, I've garnered a rich tapestry of experience that spans across different industries, reflecting my ability to adapt and excel in diverse environments.
 
@@ -12,7 +11,6 @@ My journey began in the legal field, where I honed my analytical skills and meti
 As you can see, I am a continual learner who thrives on enhancing platforms and services. I believe in advancing not only the tech products I work with but also the teams I work alongside.
 
 Let's build something remarkable together. 🛠️.
-
 <br/>
   
 ### 🧐 More About Me:
@@ -25,7 +23,6 @@ Let's build something remarkable together. 🛠️.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/juliomoren0/).
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1hm-7il5zPCx9suybldwJRLtwozrw4y3F/view?usp=drive_link).
 - 📚 &nbsp; When I am free, I read manga, fantasy and fiction novels; engaging in sports and listening to music. Checkout my [Spotify](https://open.spotify.com/user/11128023431?si=2ee2e893ad794724).
-
 <br>
 
 ### 🔨 Languages and Tools:
@@ -43,14 +40,12 @@ Let's build something remarkable together. 🛠️.
 <a href="https://git-scm.com/" target="_blank"> <img src="./img/git.png" align="left" alt="git" height='40px' style="margin: 10px;"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="./img/figma.png" alt="figma" height='40px' style="margin: 10px;"/> </a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" style="margin: 10px;" height ="40px" src="./img/python.png"></a>
-
 <br>
 
 ### 📊 Github Stats
 
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=Dokh0&show_icons=true&theme=nightowl&hide_rank=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokh0&layout=compact&theme=nightowl)
-
 <br>
 
 <!-- ### 🛠️ My Projects
