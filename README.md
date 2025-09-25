@@ -1,4 +1,4 @@
-## Hey 👋, I'm Julio Moreno!
+## Hey 👋, I'm Julio!
 
 <a href='https://www.linkedin.com/in/juliomoren0/' target="_blank"><img align='left' alt="linkedin" src="./img/icons8-linkedin-96.png" height='32px'/></a>
 <a href='https://drive.google.com/file/d/1hm-7il5zPCx9suybldwJRLtwozrw4y3F/view?usp=drive_link' target="_blank"><img align='left' alt="cv" src="./img/icons8-cv-64.png" height='32px'/></a>
